@@ -1,9 +1,9 @@
 import React from 'react'
-import './About.css';
+
 
 export default function About() {
   return (
-    <div className='about'>
+     <div className='about'>
      <h2 id="logo">Pixels-to-Projects</h2>
      <p>
      <b>Welcome</b> to Pixels-to-Projects!
