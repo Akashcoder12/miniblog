@@ -3,9 +3,9 @@ import React from 'react'
 
 export default function About() {
   return (
-     <div className='about'>
-     <h2 id="logo">Pixels-to-Projects</h2>
-     <p>
+     <div className='max-w-4xl mx-auto p-6 '>
+     <h2 className='text-2xl font-bold text-green-600 mb-6' >Pixels-to-Projects</h2>
+     <p className='text-gray-700 text-lg leading-relaxed'>
      <b>Welcome</b> to Pixels-to-Projects!
 
      I'm Akash Gupta, and I'm passionate about <b>Web Development</b>.
