@@ -1,0 +1,21 @@
+.about{
+       line-height:2rem;
+       word-spacing: 1px;
+       background-color:#d9ead3;
+}
+
+.about h2{
+      text-align: center;
+      text-decoration: underline;
+}
+
+.about #logo{
+      color:green;
+
+}
+
+.about p{
+        padding: 10px;
+        text-align: left;
+        font-size:15px;
+}
